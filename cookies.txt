@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-elecastlesubng.com	TRUE	/	FALSE	1999999999	csrftoken	RbQcPy7lNNKwyCaxHaWsYQIYocATWojrONcq7hS8kBw86emhUMMNvbhw8hpkiqbl
-elecastlesubng.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
